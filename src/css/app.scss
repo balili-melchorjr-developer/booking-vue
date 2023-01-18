@@ -1,0 +1,32 @@
+// app global css in SCSS form
+
+body{
+    font-family: 'Montserrat', sans-serif
+}
+
+#realtime::before, #realtime::after{
+    visibility: hidden;
+}
+
+.appointment-title-img{
+    height: 100px;
+}
+
+.my-menu-link{
+    background:#00b0ff  ;
+    color: white ;
+}
+
+.queue-touch-panel-button{
+    height: 150%;
+}
+
+.login-background {
+    background-image: url('../assets/milad-fakurian-E8Ufcyxz514-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100px;
+}
+
+
+
